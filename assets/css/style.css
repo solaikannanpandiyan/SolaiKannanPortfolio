@@ -15,9 +15,9 @@
     GENERAL STYLES
 ==================================================*/
 body {
-    font-family: 'Ruluko', sans-serif;
+    font-family: sans-serif;
     /* 'Ruluko', sans-serif; */
-    font-size:14px;
+    font-size:18px;
 }
 
 img {
@@ -39,7 +39,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-   font-family: 'Ruluko', sans-serif;
+   font-family: Overpass;
    /* 'Ruluko', sans-serif; */
 }
 
